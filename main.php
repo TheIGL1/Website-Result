@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>API Request Demo</title>
+<title>Resutl API Request </title>
 <style>
   /* Simple CSS for styling */
   body {
